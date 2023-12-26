@@ -1,0 +1,39 @@
+
+2023-12-19 14:03:13.277399
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 890 in _bootstrap>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 932 in _bootstrap_inner>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 870 in run>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server.py, line 160 in recv_c>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server_deliver.py, line 52 in deli_sign>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+骑手开始注册了
+骑手注册成功
+__________________________________________________
+
+2023-12-19 14:04:12.132287
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 890 in _bootstrap>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 932 in _bootstrap_inner>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 870 in run>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server.py, line 98 in recv_c>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server.py, line 302 in authentic>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+客户端请求认证
+解密后的ticket为:{'kc_v': 16948091337832056435, 'id_c': '985', 'ad_c': 'adc', 'id_v': '0001', 'ts_4': '', 'lifetime_4': '480', 'publickey': '[81403393817777280998143195743907242687387818395144091572071091464130329298137791188102392038927610110259193307670269754422065372134830941700479219677006898749005305009459963332329319267598892820359905466345551319887071638467367183136583968473515607080205164803081013996936677516883085468797826506536288753407, 65537]'}
+解密后的authentic为:{'id_c': '985', 'ad_c': '', 'ts_5': 1702965851.6882594}
+验证通过
+deliver登陆成功
+
+__________________________________________________
+
+2023-12-19 14:04:44.029280
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 890 in _bootstrap>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 932 in _bootstrap_inner>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 870 in run>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server.py, line 557 in request_client>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server_deliver.py, line 97 in request_deliver>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server_deliver.py, line 178 in refresh>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+骑手提出刷新信息的请求
+骑手个人信息为：[('id', '姓名', '性别', '电话号码', '工资', '状态'), ('985', 'lll', 'F', '11345678444', 0, '休息')]骑手个人信息为：0骑手最近订单为：0
+刷新请求完成
+__________________________________________________

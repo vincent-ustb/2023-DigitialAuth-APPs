@@ -1,0 +1,11 @@
+
+2023-12-18 19:03:55.012696
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 160 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 52 in deli_sign>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手开始注册了
+骑手注册成功
+__________________________________________________

@@ -1,0 +1,16 @@
+
+2023-12-18 18:57:35.071746
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\as.py, line 225 in service_thread>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+ 收到新连接
+接收到的信息为b"000100110000000100001001111111000000000000000000000001011111110000000000000000000000010001100101100000000010010110011111000000000000000001011011000000000000000001011011{'id': '963', 'passwd': '60906be77847d3d207799dc3e25caa2c7c23bfb6f02cb527247c11ca6074ca25'}"
+报文类型验证成功c_a1
+第一个连接请求密文content{'id': '963', 'passwd': '60906be77847d3d207799dc3e25caa2c7c23bfb6f02cb527247c11ca6074ca25'}
+》》》开始调用功能函数
+用户：963请求注册   账号密码为：60906be77847d3d207799dc3e25caa2c7c23bfb6f02cb527247c11ca6074ca25
+用户：963注册成功
+
+__________________________________________________

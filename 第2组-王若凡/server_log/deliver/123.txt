@@ -1,0 +1,11 @@
+
+2023-12-20 13:23:21.756516
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 890 in _bootstrap>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 932 in _bootstrap_inner>
+<FrameSummary file D:\CTF\Python38\lib\threading.py, line 870 in run>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server.py, line 160 in recv_c>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\server_deliver.py, line 52 in deli_sign>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+骑手开始注册了
+骑手注册成功
+__________________________________________________

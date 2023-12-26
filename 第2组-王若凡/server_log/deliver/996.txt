@@ -1,0 +1,82 @@
+
+2023-12-17 17:08:10.096104
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 162 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 55 in deli_sign>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手开始注册了
+骑手注册成功
+__________________________________________________
+
+2023-12-17 17:08:35.040017
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 100 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 304 in authentic>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+客户端请求认证
+解密后的ticket为:{'kc_v': 14405696436562360935, 'id_c': '996', 'ad_c': 'adc', 'id_v': '0001', 'ts_4': '', 'lifetime_4': '480', 'publickey': '[54755347888724527479595210182791511762554453310570842354873486947579628170843278277837581663293522351572686144460459975111693706252975436888910318114586284824754795363340031506068005127573252180871362027402765964833184317673736100053673844423814293175167629312774405050613058077069301878246489041582621805399, 65537]'}
+解密后的authentic为:{'id_c': '996', 'ad_c': '', 'ts_5': 1702804114.5087051}
+验证通过
+deliver登陆成功
+
+__________________________________________________
+
+2023-12-17 17:08:45.106835
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 559 in request_client>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 100 in request_deliver>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 181 in refresh>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手提出刷新信息的请求
+骑手个人信息为：[('id', '姓名', '性别', '电话号码', '工资', '状态'), ('996', 'A', 'F', '996', 1, '工作')]骑手个人信息为：0骑手最近订单为：0
+刷新请求完成
+__________________________________________________
+
+2023-12-17 17:11:48.955619
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 100 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 304 in authentic>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+客户端请求认证
+解密后的ticket为:{'kc_v': 16259083690174107468, 'id_c': '996', 'ad_c': 'adc', 'id_v': '0001', 'ts_4': '', 'lifetime_4': '480', 'publickey': '[112079757394900269817146335039378050464670704846104248725190511220202525408285761944900385066581226686166617815545743517858094259119064619296761771689880301578762940451582221631822780294249507055672780635970802202399386267934554285240776868665702456441978394729513487110941123607579783571796000529499471869071, 65537]'}
+解密后的authentic为:{'id_c': '996', 'ad_c': '', 'ts_5': 1702804308.6283987}
+验证通过
+deliver登陆成功
+
+__________________________________________________
+
+2023-12-17 17:11:59.648210
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 559 in request_client>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 100 in request_deliver>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 181 in refresh>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手提出刷新信息的请求
+骑手个人信息为：[('id', '姓名', '性别', '电话号码', '工资', '状态'), ('996', 'A', 'F', '996', 1, '工作')]骑手个人信息为：0骑手最近订单为：0
+刷新请求完成
+__________________________________________________
+
+2023-12-17 17:17:41.972929
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 98 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 302 in authentic>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+客户端请求认证
+解密后的ticket为:{'kc_v': 10791699214885453287, 'id_c': '996', 'ad_c': 'adc', 'id_v': '0001', 'ts_4': '', 'lifetime_4': '480', 'publickey': '[88267178283342834902687748372100463976587552102366006239541249592122096270200951263270836074160291439736133342825883712519347879678164212839459739469328528525847037075680772487351560339571957883401717760838963708685390102353018098094578380331165965214822413563946542453240897209937106340567264007760877898141, 65537]'}
+解密后的authentic为:{'id_c': '996', 'ad_c': '', 'ts_5': 1702804661.827509}
+验证通过
+deliver登陆成功
+
+__________________________________________________

@@ -1,0 +1,39 @@
+
+2023-12-18 19:05:22.539785
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 160 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 52 in deli_sign>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手开始注册了
+骑手注册成功
+__________________________________________________
+
+2023-12-18 19:41:18.841989
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 98 in recv_c>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 302 in authentic>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+客户端请求认证
+解密后的ticket为:{'kc_v': 10181868793474002161, 'id_c': '999', 'ad_c': 'adc', 'id_v': '0001', 'ts_4': '', 'lifetime_4': '480', 'publickey': '[71695047841781971709345927557081137435086859584371895272163033024837699379554376896090138532328049899834893908930064487971094146153421864914721921928514824021908717936678928836345529580923864650553095108538337002843334592077817617372260965074370938387478388843186728220115792201729524199823479944566699752157, 65537]'}
+解密后的authentic为:{'id_c': '999', 'ad_c': '', 'ts_5': 1702899678.603512}
+验证通过
+deliver登陆成功
+
+__________________________________________________
+
+2023-12-18 19:41:29.745660
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 937 in _bootstrap>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 980 in _bootstrap_inner>
+<FrameSummary file C:\Users\blank\anaconda3\lib\threading.py, line 917 in run>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server.py, line 557 in request_client>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 97 in request_deliver>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\server_deliver.py, line 178 in refresh>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+骑手提出刷新信息的请求
+骑手个人信息为：[('id', '姓名', '性别', '电话号码', '工资', '状态'), ('999', 'L', 'M', '999', 1, '工作')]骑手个人信息为：0骑手最近订单为：0
+刷新请求完成
+__________________________________________________

@@ -1,0 +1,84 @@
+
+2023-12-17 17:11:22.835148
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\as.py, line 250 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-17 17:11:31.931104
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\tgs.py, line 119 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-17 17:14:48.629280
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\as.py, line 250 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-17 17:14:51.309273
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\tgs.py, line 119 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-17 17:16:29.926507
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\as.py, line 248 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-17 17:16:33.423534
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\tgs.py, line 117 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-18 18:57:08.570903
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\as.py, line 248 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-18 18:57:09.958770
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\tgs.py, line 117 in <module>>
+<FrameSummary file C:\Users\blank\Desktop\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-19 12:13:14.444382
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\as.py, line 248 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-19 12:13:24.759047
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\tgs.py, line 117 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-19 14:01:51.001934
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\as.py, line 248 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-19 14:01:53.977746
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\tgs.py, line 117 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
+
+2023-12-20 13:22:29.170721
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\as.py, line 248 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+as.main called
+__________________________________________________
+
+2023-12-20 13:22:33.381071
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\tgs.py, line 117 in <module>>
+<FrameSummary file C:\Users\Roxanne Kimmich\Desktop\新建文件夹 (2)(1)\新建文件夹 (2)\log.py, line 34 in debug>
+tgs.main called
+__________________________________________________
